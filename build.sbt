@@ -1,6 +1,6 @@
 scalaVersion := "2.11.1"
 
-name :="hazelcast-root"
+name :="hazelcast"
 
-version :="3.3.3"
+version :="0.1-SNAPSHOT"
 
