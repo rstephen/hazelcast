@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="1.0">
 	<info organisation="com.hazelcast"
-		module="hazelcast-root"
-		revision="3.3.3"
+		module="hazelcast"
+		revision="0.1-SNAPSHOT"
 		status="integration"
 		publication="20141209133958"
 	/>
